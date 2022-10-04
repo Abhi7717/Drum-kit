@@ -1,0 +1,40 @@
+.tom1{
+    display: inline-block;
+/* margin:10%; */
+/* width : 100px; */
+}
+.tom2{
+    display: inline-block;
+    /* position: relative;
+    left: 30px;
+    bottom: 40px; */
+}
+.tom3
+{
+    display: inline-block;
+    /* position: relative;
+    left: 50%; */
+}
+.tom4{
+    display: inline-block;
+}
+.snare{
+    display: inline-block;
+}
+.crash{
+    display: inline-block;
+}
+.kick{
+    display: inline-block;
+}
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+body {
+    text-align: center;
+    background-color: #8ef2ff;
+}
